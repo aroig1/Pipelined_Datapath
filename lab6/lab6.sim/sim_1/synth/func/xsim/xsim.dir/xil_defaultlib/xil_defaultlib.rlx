@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/U of A/ECE 369/lab73/lab6/lab6.sim/sim_1/synth/func/xsim/TopLevel_tb_func_synth.v,1701662449,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sim_1/imports/sim_1/new/TopLevel_tb.v,,ALU32Bit;ALUController;Adder32Bit;Controller;DataMemory;EX_MEM_Register;ID_EX_Register;IF_ID_Register;Lab4;MEM_WB_Register;Mux32Bit2To1;Mux32Bit2To1_0;Mux32Bit2To1_1;Mux32Bit2To1_2;Mux5Bit2To1;Mux5Bit2To1_4;PCAdder;ProgramCounter;RegisterFile;glbl;memSelector;memSelector_3,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sim_1/imports/sim_1/new/TopLevel_tb.v,1700600046,verilog,,,,TopLevel_tb,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/imports/1-InstructionFetchUnit/InstructionMemory.v,1700548682,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/JumpTarget.v,,InstructionMemory,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/imports/DatapathComponents/SignExtension/SignExtension.v,1698172919,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/memSelector.v,,SignExtension,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/Branch.v,1700547405,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/Controller.v,,Branch,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/JumpTarget.v,1698177054,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/Lab4.v,,JumpTarget,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/ShiftLeft2.v,1698085562,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/SignExtender5Bit.v,,ShiftLeft2,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/SignExtender5Bit.v,1698102684,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/imports/DatapathComponents/SignExtension/SignExtension.v,,SignExtender5Bit,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/new/Hazard.v,1700472644,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/new/ID_EX_Register.v,,Hazard,,,,,,,,
+C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/new/Mux1Bit2To1.v,1699852204,verilog,,C:/U of A/ECE 369/lab73/lab6/lab6.srcs/sources_1/imports/sources_1/imports/DatapathComponents/Mux32Bit2To1/Mux32Bit2To1.v,,Mux1Bit2To1,,,,,,,,

@@ -1,0 +1,12 @@
+20080064	//	main:		addi	$t0, $zero, 100 ->	main:		addi	$t0, $zero, 100
+0c000005	//			jal	jalJump ->			jal	jalJump
+20080067	//			addi	$t0, $zero, 103 ->			addi	$t0, $zero, 103
+20080068	//			addi	$t0, $zero, 104 ->			addi	$t0, $zero, 104
+08000009	//			j	jJump ->			j	jJump
+20080065	//	jalJump:	addi	$t0, $zero, 101 ->	jalJump:	addi	$t0, $zero, 101
+20080066	//			addi	$t0, $zero, 102 ->			addi	$t0, $zero, 102
+03e00008	//			jr	$ra ->			jr	$ra
+200803e7	//			addi	$t0, $zero, 999 ->			addi	$t0, $zero, 999
+20080069	//	jJump:		addi	$t0, $zero, 105 ->	jJump:		addi	$t0, $zero, 105
+2008006a	//			addi	$t0, $zero, 106 ->			addi	$t0, $zero, 106
+08000000	//			j	main ->			j	main

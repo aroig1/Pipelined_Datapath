@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Dec  4 15:01:15 2023
+# Process ID: 14892
+# Current directory: C:/U of A/ECE 369/Competition/Competition/Competition.runs/impl_1
+# Command line: vivado.exe -log Lab5.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab5.tcl -notrace
+# Log file: C:/U of A/ECE 369/Competition/Competition/Competition.runs/impl_1/Lab5.vdi
+# Journal file: C:/U of A/ECE 369/Competition/Competition/Competition.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab5.tcl -notrace

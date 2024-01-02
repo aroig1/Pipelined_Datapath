@@ -1,0 +1,29 @@
+20100006	//	loop:		addi	$s0, $zero, 6 ->	loop:		addi	$s0, $zero, 6
+2011000a	//			addi	$s1, $zero, 10 ->			addi	$s1, $zero, 10
+200a000a	//			addi	$t2, $zero, 10 ->			addi	$t2, $zero, 10
+200bfffb	//			addi	$t3, $zero, -5 ->			addi	$t3, $zero, -5
+04010002	//			bgez	$zero, bgezJump ->			bgez	$zero, bgezJump
+200803e7	//			addi	$t0, $zero, 999 ->			addi	$t0, $zero, 999
+20080378	//			addi	$t0, $zero, 888 ->			addi	$t0, $zero, 888
+20080064	//	bgezJump:	addi	$t0, $zero, 100 ->	bgezJump:	addi	$t0, $zero, 100
+11510002	//			beq	$t2, $s1, beqJump ->			beq	$t2, $s1, beqJump
+200803e7	//			addi	$t0, $zero, 999 ->			addi	$t0, $zero, 999
+20080378	//			addi	$t0, $zero, 888 ->			addi	$t0, $zero, 888
+20080065	//	beqJump:	addi	$t0, $zero, 101 ->	beqJump:	addi	$t0, $zero, 101
+16110002	//			bne	$s0, $s1, bneJump ->			bne	$s0, $s1, bneJump
+200803e7	//			addi	$t0, $zero, 999 ->			addi	$t0, $zero, 999
+20080378	//			addi	$t0, $zero, 888 ->			addi	$t0, $zero, 888
+20080066	//	bneJump:	addi	$t0, $zero, 102 ->	bneJump:	addi	$t0, $zero, 102
+1e000002	//			bgtz	$s0, bgtzJump ->			bgtz	$s0, bgtzJump
+200803e7	//			addi	$t0, $zero, 999 ->			addi	$t0, $zero, 999
+20080378	//			addi	$t0, $zero, 888 ->			addi	$t0, $zero, 888
+20080067	//	bgtzJump:	addi	$t0, $zero, 103 ->	bgtzJump:	addi	$t0, $zero, 103
+18000002	//			blez	$zero, blezJump ->			blez	$zero, blezJump
+200803e7	//			addi	$t0, $zero, 999 ->			addi	$t0, $zero, 999
+20080378	//			addi	$t0, $zero, 888 ->			addi	$t0, $zero, 888
+20080068	//	blezJump:	addi	$t0, $zero, 104 ->	blezJump:	addi	$t0, $zero, 104
+05600002	//			bltz	$t3, bltzJump ->			bltz	$t3, bltzJump
+200803e7	//			addi	$t0, $zero, 999 ->			addi	$t0, $zero, 999
+20080378	//			addi	$t0, $zero, 888 ->			addi	$t0, $zero, 888
+20080069	//	bltzJump:	addi	$t0, $zero, 105 ->	bltzJump:	addi	$t0, $zero, 105
+08000000	//			j	loop ->			j	loop

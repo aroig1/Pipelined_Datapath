@@ -1,1 +1,4 @@
 # Pipelined_Datapath
+I collaborated with a group to design, implement, and validate a five-stage pipelined datapath for the MIPS 32-bit ISA on the Xilinx Artix-7 FPGA. This datapath design included hazarding and forwarding from both the instruction decode and execution stages. In addition, we implemented an image processing algorithm in MIPS ISA and executed on the FPGA based emulation of the pipelined processor on the FPGA.
+
+Note: The 'lab6' folder contains the verilog project with hazarding, but no forwarding implemented. The 'Competition' folder contains the full verilog project with both hazarding and forwarding.

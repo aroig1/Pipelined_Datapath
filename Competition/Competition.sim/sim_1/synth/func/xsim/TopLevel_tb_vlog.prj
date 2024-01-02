@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"TopLevel_tb_func_synth.v" \
+"../../../../../Competition.srcs/sim_1/imports/lab7/TopLevel_tb.v" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,52 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 69819abc0c2a4f529e28dee01198b315 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot TopLevel_tb_func_impl xil_defaultlib.TopLevel_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.DSP48E1(ACASCREG=0,ALUMODEREG=0,...
+Compiling module unisims_ver.DSP48E1(ACASCREG=0,ALUMODEREG=0,...
+Compiling module unisims_ver.CARRY4
+Compiling module unisims_ver.latchsre_ldce
+Compiling module unisims_ver.LDCE
+Compiling module unisims_ver.LUT6
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module xil_defaultlib.ALU32Bit
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.FDRE_default
+Compiling module unisims_ver.LUT5
+Compiling module unisims_ver.x_lut3_mux8
+Compiling module unisims_ver.LUT3
+Compiling module xil_defaultlib.EX_MEM_Register
+Compiling module unisims_ver.LUT4
+Compiling module xil_defaultlib.ID_EX_Register
+Compiling module xil_defaultlib.IF_ID_Register
+Compiling module xil_defaultlib.MEM_WB_Register
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1(INIT=2'b01)
+Compiling module xil_defaultlib.ProgramCounter
+Compiling module unisims_ver.FDRE(IS_C_INVERTED=1'b1)
+Compiling module unisims_ver.RAM32M
+Compiling module xil_defaultlib.RegisterFile
+Compiling module xil_defaultlib.ALUController
+Compiling module xil_defaultlib.Branch
+Compiling module xil_defaultlib.Adder32Bit
+Compiling module unisims_ver.latchsre_ldpe
+Compiling module unisims_ver.LDPE
+Compiling module unisims_ver.MUXF7
+Compiling module xil_defaultlib.Controller
+Compiling module unisims_ver.RAM256X1S
+Compiling module xil_defaultlib.DataMemory
+Compiling module xil_defaultlib.memSelector
+Compiling module xil_defaultlib.PCAdder
+Compiling module unisims_ver.OBUF
+Compiling module xil_defaultlib.Lab4
+Compiling module xil_defaultlib.TopLevel_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TopLevel_tb_func_impl

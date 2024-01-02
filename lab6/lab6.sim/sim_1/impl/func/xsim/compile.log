@@ -1,0 +1,19 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/U of A/ECE 369/lab62/lab6/lab6.sim/sim_1/impl/func/xsim/TopLevel_tb_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU32Bit
+INFO: [VRFC 10-311] analyzing module ALUController
+INFO: [VRFC 10-311] analyzing module Adder32Bit
+INFO: [VRFC 10-311] analyzing module Branch
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-311] analyzing module EX_MEM_Register
+INFO: [VRFC 10-311] analyzing module ID_EX_Register
+INFO: [VRFC 10-311] analyzing module IF_ID_Register
+INFO: [VRFC 10-311] analyzing module Lab4
+INFO: [VRFC 10-311] analyzing module MEM_WB_Register
+INFO: [VRFC 10-311] analyzing module PCAdder
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-311] analyzing module memSelector
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/U of A/ECE 369/lab62/lab6/lab6.srcs/sim_1/imports/sim_1/new/TopLevel_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TopLevel_tb

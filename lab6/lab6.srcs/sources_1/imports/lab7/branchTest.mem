@@ -1,0 +1,25 @@
+20080005	//	main:	addi	$t0, $zero, 5 ->	main:	addi	$t0, $zero, 5
+2009000a	//		addi	$t1, $zero, 10 ->		addi	$t1, $zero, 10
+200a0005	//		addi	$t2, $zero, 5 ->		addi	$t2, $zero, 5
+110a0003	//		beq	$t0, $t2, good ->		beq	$t0, $t2, good
+200d0309	//		addi	$t5, $zero, 777 ->		addi	$t5, $zero, 777
+200d0378	//		addi	$t5, $zero, 888 ->		addi	$t5, $zero, 888
+200d03e7	//		addi	$t5, $zero, 999 ->		addi	$t5, $zero, 999
+200d0064	//	good:	addi	$t5, $zero, 100 ->	good:	addi	$t5, $zero, 100
+200d0065	//		addi	$t5, $zero, 101 ->		addi	$t5, $zero, 101
+11090003	//		beq	$t0, $t1, bad ->		beq	$t0, $t1, bad
+200d0066	//		addi	$t5, $zero, 102 ->		addi	$t5, $zero, 102
+200d0067	//		addi	$t5, $zero, 103 ->		addi	$t5, $zero, 103
+15090003	//		bne	$t0, $t1, good2 ->		bne	$t0, $t1, good2
+200d0309	//	bad:	addi	$t5, $zero, 777 ->	bad:	addi	$t5, $zero, 777
+200d0378	//		addi	$t5, $zero, 888 ->		addi	$t5, $zero, 888
+200d03e7	//		addi	$t5, $zero, 999 ->		addi	$t5, $zero, 999
+200d0068	//	good2:	addi	$t5, $zero, 104 ->	good2:	addi	$t5, $zero, 104
+200d0069	//		addi	$t5, $zero, 105 ->		addi	$t5, $zero, 105
+150a0002	//		bne	$t0, $t2, bad2 ->		bne	$t0, $t2, bad2
+200d006a	//		addi	$t5, $zero, 106 ->		addi	$t5, $zero, 106
+200d006b	//		addi	$t5, $zero, 107 ->		addi	$t5, $zero, 107
+200d0309	//	bad2:	addi	$t5, $zero, 777 ->	bad2:	addi	$t5, $zero, 777
+200d0378	//		addi	$t5, $zero, 888 ->		addi	$t5, $zero, 888
+200d03e7	//		addi	$t5, $zero, 999 ->		addi	$t5, $zero, 999
+08000000	//		j	main ->		j	main

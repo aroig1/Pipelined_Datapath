@@ -1,0 +1,6 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/U of A/ECE 369/lab62/lab6/lab6.sim/sim_1/impl/func/xsim/TopLevel_tb_func_impl.v,1699859880,verilog,,C:/U of A/ECE 369/lab62/lab6/lab6.srcs/sim_1/imports/sim_1/new/TopLevel_tb.v,,ALU32Bit;ALUController;Adder32Bit;Branch;Controller;DataMemory;EX_MEM_Register;ID_EX_Register;IF_ID_Register;Lab4;MEM_WB_Register;PCAdder;ProgramCounter;RegisterFile;glbl;memSelector,,,,,,,,
+C:/U of A/ECE 369/lab62/lab6/lab6.srcs/sim_1/imports/sim_1/new/TopLevel_tb.v,1699859539,verilog,,,,TopLevel_tb,,,,,,,,
